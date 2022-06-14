@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aisar Nazmi</h1>
 
-- 🌱 I’m currently learning **NuxtJS & React**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **vue, laravel, flutter**
 
