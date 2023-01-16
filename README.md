@@ -15,4 +15,4 @@
 
 <div><img style="height: 165px" align="center" src="https://github-readme-stats.vercel.app/api?username=aisarnazmi&show_icons=true&locale=en" alt="aisarnazmi" /></div> -->
 
-<p align="center"><img src=https://github-readme-stats.vercel.app/api?username=aisarnazmi&show_icons=true alt=aisarnazmi /></p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=aisarnazmi&show_icons=true alt=aisarnazmi /></p>
