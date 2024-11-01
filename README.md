@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aisar Nazmi</h1>
 
-# 💻 Tech Stack:
+###
+
+<h3 align="left">💻   Tech Stack:</h3>
+
+###
+<br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -47,10 +52,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
 </div>
+<br/>
 
 ###
 
-# 📊 GitHub Stats:
+<h3 align="left">📊   GitHub Stats:</h3>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aisarnazmi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=aisarnazmi&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
